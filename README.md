@@ -30,3 +30,7 @@
 
 ### PDF Document 
 - The PDF input is set to a specific file named 'example.pdf' at the root directory.
+
+### Issues
+- The response time can be as long as several minutes due to the computationally intensive nature of the inference process.
+- If the text block size in the PDF is large, it may exceed the maximum token length.
