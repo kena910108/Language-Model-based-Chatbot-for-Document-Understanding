@@ -3,6 +3,8 @@
 ## Project Overview
 - This project utilizes Django as the web framework. It incorporates Microsoft's Phi-1.5, a small language model, to run efficiently on laptops. The project employs the BM25 algorithm for document retrieval, which enables the chatbot to utilize documents as context for generating responses.
 
+![](chatbot.png)
+
 #### Installation
 - set up a virtual environment:
   ```bash
